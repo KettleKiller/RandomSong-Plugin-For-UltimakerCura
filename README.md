@@ -62,3 +62,12 @@ M300 P298 S1480
 
 If you want to try the G-code you can copy it to your SD and change its format to `.gcode`, or use the gsong player I added to this repository.
 
+# Gsong Player:
+## How to Use:
+
+1. Open the Gsong Player.py file,if it doesn't work open cmd and write `Python {Path to .py file}` then press enter.
+
+2.Click the "Load File" button to select a .gsong file to play.
+
+3.Click the "Play" button to play the selected .gsong file. The program will generate a temporary .wav file and play it.
+
