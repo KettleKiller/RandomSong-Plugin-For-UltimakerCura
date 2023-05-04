@@ -9,9 +9,9 @@ This plugin for Ultimaker Cura selects a random song from a folder and plays it 
 
 ## Installation
 
-1. Download the plugin zip file from this [GitHub repository](https://github.com/rodrigomauricio/cura_random_song_plugin).
-2. Unzip the .py file to the scripts at `C:\Program Files\Ultimaker Cura {Cura version}\share\cura\plugins\PostProcessingPlugin\scripts`.
-3. Open Cura and activate the plugin in the "Extensions" menu.
+1. Download the plugin file from this [GitHub repository](https://github.com/rodrigomauricio/cura_random_song_plugin).
+2. move the RandomSongs.py file to the folder `C:\Program Files\Ultimaker Cura {Cura version}\share\cura\plugins\PostProcessingPlugin\scripts`.
+3. Open Cura and activate the plugin in the "Extensions,Post Processing" menu.
 
 ## Usage
 
@@ -65,7 +65,7 @@ If you want to try the G-code you can copy it to your SD and change its format t
 # Gsong Player:
 ## How to Use:
 
-1. Open the Gsong Player.py file,if it doesn't work open cmd and write `Python {Path to .py file}` then press enter.
+1.Download and open the Gsong Player.py file,if it doesn't open, open cmd and write `Python {Path to .py file}` then press enter.
 
 2.Click the "Load File" button to select a .gsong file to play.
 
