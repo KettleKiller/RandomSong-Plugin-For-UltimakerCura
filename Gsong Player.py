@@ -57,7 +57,6 @@ def cleanup():
 
 window = tk.Tk()
 window.title("Gsong Converter")
-window.iconbitmap("C:\\Users\\pablo\\OneDrive\\Documentos\\UltimakerGcodesongs\\APP\\icono.ico")
 
 file_label = tk.Label(window, text="File:")
 file_label.grid(row=0, column=0)
