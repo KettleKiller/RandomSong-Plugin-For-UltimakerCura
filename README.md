@@ -32,24 +32,43 @@ Each command should be on a separate line.
 For example:
 
 M300 P149 S1760
+
 G4 P149
+
 M300 P165 S92
+
 G4 P165
+
 M300 P324 S0
+
 G4 P324
+
 M300 P319 S1568
+
 G4 P319
+
 M300 P149 S1480
+
 G4 P149
+
 M300 P128 S73
+
 G4 P128
+
 M300 P191 S82
+
 G4 P191
+
 M300 P170 S92
+
 G4 P170
+
 M300 P340 S1319
+
 G4 P340
+
 M300 P298 S1480
+
 
 
 ### How to get M300 Code from a midi file:
