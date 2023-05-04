@@ -54,7 +54,7 @@ M300 P298 S1480
 
 ### How to get M300 Code from a midi file:
 
-1. Load your midi file to: [https://alexyu132.github.io/midi-m300/](https://alexyu132.github.io/midi-m300/)
+1. Load your midi file to: [https://alexyu132.github.io/midi-m300/](https://alexyu132.github.io/midi-m300/) `(Disclaimer: This page is not audited by me.)`
 2. Select the instrument you prefer (3D printers reproduce 1 sound at a time).
 3. Click "Generate".
 4. Copy the notes you want to play.
